@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@4lch4/cronicle-plugin-tools@^0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@4lch4/cronicle-plugin-tools/-/cronicle-plugin-tools-0.1.4.tgz#0265509104db39f95c720009e34d5c7a8007aba9"
-  integrity sha512-dRh6gA3SriJno+kZwcyl99hK1jDveCxnAs7ECdqMArT6Yz7rJURSXlPhU67PML/uvNEZ3i7WJjGw1frgtiZx3w==
+"@4lch4/cronicle-plugin-tools@^0.1.5":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@4lch4/cronicle-plugin-tools/-/cronicle-plugin-tools-0.1.5.tgz#f1bd6512ab67e67f93086f912038067fcb6f96be"
+  integrity sha512-J279UQofxwpdIqakjB6PNGMmR+KN47zi+djxreiw2OEVPPkNGkVhZOR62Qx4LXGjGq+VKl0j0d9cB1QRLPHvvg==
   dependencies:
     commander "^9.0.0"
     discord-ts-webhook "^1.2.1"
