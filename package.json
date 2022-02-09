@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@4lch4/cronicle-plugin-tools": "^0.1.4",
+    "@4lch4/cronicle-plugin-tools": "^0.1.5",
     "discord-ts-webhook": "^1.2.1",
     "dotenv": "^16.0.0"
   },
