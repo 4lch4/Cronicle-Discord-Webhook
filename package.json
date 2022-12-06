@@ -1,14 +1,20 @@
 {
-  "name": "cronicle-discord-webhook",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "@4is-cronicle/plugin-discord-webhook",
+  "version": "0.0.1",
+  "description": "A Cronicle Plugin for using Discord Webhooks to send messages.",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "pretty": "prettier --write .",
+    "prepublishOnly": "npm run build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["cronicle", "cronicle-tools", "cronicle-plugin"],
+  "author": {
+    "name": "4lch4",
+    "email": "hey@4lch4.email",
+    "url": "https://alcha.org"
+  },
+  "license": "MIT",
   "dependencies": {
     "@4lch4/cronicle-plugin-tools": "^0.1.4",
     "discord-ts-webhook": "^1.2.1",
